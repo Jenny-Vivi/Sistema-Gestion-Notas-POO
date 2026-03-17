@@ -27,7 +27,6 @@ public class Main {
         System.out.println("\n--- Resultados ---");
         System.out.printf("El promedio final es: %.2f\n", promedio);
 
-        // Lógica de aprobación (ajusta el 7 según tu universidad)
         if (promedio >= 7) {
             System.out.println("Estado: APROBADO");
         } else {
